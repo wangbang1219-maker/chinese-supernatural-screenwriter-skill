@@ -1,0 +1,58 @@
+project: ""
+skill_version: "2.0"
+story_mode: "现实社会/架空历史/半现实民俗悬疑"
+setting:
+  era: ""
+  region: ""
+  reality_rules: ""
+current_chapter: 0
+current_arc: ""
+previous_summary: ""
+main_mystery: ""
+protagonist_goal: ""
+timeline:
+  date_or_period: ""
+  location: ""
+  elapsed_time: ""
+characters:
+  - name: ""
+    location: ""
+    physical_state: ""
+    knowledge: []
+    false_beliefs: []
+    desire: ""
+    fear: ""
+    relationships: []
+    secrets: []
+    current_choice: ""
+entities:
+  - entity_id: ""
+    name: ""
+    folklore_basis: []
+    established_rules: []
+    observed_behaviors: []
+    weaknesses_or_limits: []
+    unresolved_questions: []
+clues:
+  planted: []
+  confirmed: []
+  misleading: []
+  unresolved: []
+folklore_research:
+  verified_sources: []
+  uncertain_claims: []
+  adaptation_notes: []
+world_or_social_state:
+  active_conflicts: []
+  social_causes: []
+  supernatural_rules: []
+next_chapter:
+  objective: ""
+  opening_hook: ""
+  planned_revelations: []
+  planned_scares: []
+  character_cost: ""
+  ending_hook: ""
+continuity_warnings: []
+missing_information: []
+absolute_facts_not_to_change: []

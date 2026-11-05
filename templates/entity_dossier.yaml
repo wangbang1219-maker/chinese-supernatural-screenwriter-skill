@@ -1,0 +1,45 @@
+entity_id: G000
+name: ""
+aliases: []
+story_mode: "现实社会/架空历史/半现实民俗悬疑"
+region: ""
+period: ""
+folklore_basis:
+  source_grade: ""
+  sources: []
+  attested_traits: []
+  regional_variants: []
+  uncertainties: []
+adaptation_type: "原型改编/复合改编体/原创补充"
+fusion_sources: []
+appearance:
+  silhouette: ""
+  face: ""
+  skin_or_surface: ""
+  clothing_or_covering: ""
+  hands_and_feet: ""
+  distinctive_detail: ""
+behavior:
+  movement: ""
+  voice: ""
+  smell_or_temperature: ""
+  repeated_habit: ""
+  target_selection: ""
+motivation:
+  desire: ""
+  obsession: ""
+  memory: ""
+  fear_or_limit: ""
+rules:
+  abilities: []
+  trigger_conditions: []
+  taboos: []
+  weaknesses: []
+  costs: []
+  range_and_duration: ""
+human_misinterpretations: []
+story_function: ""
+thematic_mirror: ""
+first_appearance: ""
+planned_reveal: ""
+status: "待考据/已核验/已改编/已出场/已回收"
